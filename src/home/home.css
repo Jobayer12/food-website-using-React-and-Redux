@@ -1,0 +1,13 @@
+.backgroundColor{
+    background-color: #f7f7f7 !important;
+}
+.nobackgroundColor{
+    background-color: transparent;
+    
+}
+
+.imagebar{
+    width: 100%;
+    position: relative;
+    height: 400px;
+}

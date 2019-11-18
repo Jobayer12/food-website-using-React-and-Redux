@@ -1,0 +1,103 @@
+.iconSize{
+    height: 25x;
+    width: 25px;
+    background-color: transparent;
+    
+}
+
+.ProductList{
+    background-color: transparent;
+    
+}
+
+.card{
+    display:flex;
+    height: 350px;
+    margin: 7px;
+    background-color: transparent;
+}
+
+.imagesize{
+    height: 150px;
+    width: 250px;
+    
+}
+.cardcontent{
+    background-color: #e7e7e7;
+    color: #00391A;   
+    
+}
+.nobackground{
+    background-color: transparent;
+}
+
+.productColor{
+    color: #197500;
+}
+
+.measurement-tag{
+    margin: 0px;
+    border-radius: 10px;
+    border: 1px solid #197500;
+    display: inline-block;
+    padding: 0 12px;
+    background: green;
+    font-weight: 700;
+    color: white;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.price{
+    border-radius: 10px;
+    border: 1px solid #197500;
+    display: inline-block;
+    padding: 0 12px;
+    font-weight: 700;
+    font-size: 14px;
+    margin: 0px;
+}
+
+.addtocart {
+    margin: 0px;
+    border: 1px solid #197500;
+    width: 120px;
+    color: #197500;
+    font-size: 15px;
+}
+
+.addtocart:hover {
+    margin: 0px;
+    border: 1px solid #197500;
+    width: 120px;
+    background-color: #D5BE28;
+    color: #197500;
+    font-size: 15px;
+}
+
+.ourpromises{
+    margin-bottom: 50px;
+}
+.categories-item{
+    text-decoration: none;
+    color: black;  
+}
+
+.categories-item > p{
+    font-size: 30px;
+}
+
+.categories-item:hover{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.Category_imagesize{
+    height: 150px;
+    width: 250px;
+}
+
+.shadowEffect:hover{
+    box-shadow:0 5px 5px rgba(0, 0, 0, 0.3);
+}

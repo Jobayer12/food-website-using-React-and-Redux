@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+
+.discount_product{
+ margin-bottom: 100px;
+}
+
+
+
+/* .discount {
+  background-image: url("http://localhost:4000/discount/ia_200000003.jpg");
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 50vh;
+  
+} 
+
+
+
+.discount1 {
+  background-image: url("http://localhost:4000/discount/ia_200000004.jpg");
+  
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 50vh;
+  background-size: cover;
+} */
+
+p {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  font-size: 45px;
+  font-family: "Lato", sans-serif;
+}

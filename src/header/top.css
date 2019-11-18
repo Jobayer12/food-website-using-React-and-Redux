@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-weight: 500;
+  font-size: 19px;
+
+  background-color: white;
+}
+
+.logo {
+  cursor: pointer;
+  height: 40px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: black;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #76b51b;
+}
+
+.form-control {
+  height: 33px;
+}
+.btn-outline-success {
+  height: 33px;
+}
+
+.CricleButton {
+  height: 30px;
+  width: 30px;
+  border: 1px solid white;
+  border-radius: 100%;
+  font-size: 8px;
+  background-color: #006e32;
+}
+
+.dropdown-toggle:after {
+  content: none;
+}

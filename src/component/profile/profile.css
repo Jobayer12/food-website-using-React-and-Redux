@@ -1,0 +1,22 @@
+.terms-image {
+  background-image: url("../../img/ia_3800000002.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+}
+
+.terms-image > p {
+  background-color: transparent;
+  color: white;
+}
+
+span.customer {
+  font-weight: 200;
+  font-size: 35px;
+}
+
+form > div > label {
+  font-weight: lighter;
+}

@@ -1,0 +1,46 @@
+
+@import url('https://fonts.googleapis.com/css?family=Abel&display=swap');
+
+
+.productImage{
+    width: 100%;
+    height: 350px;
+    background-image: url("http://localhost:4000/ia_1400000002.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    
+}
+.noTransparent,.noTransparent>div,.noTransparent>div>p{
+    background-color: transparent;
+    color: white;
+}
+
+input::placeholder { 
+    color: white;
+    opacity: 1;
+  }
+  
+  :-ms-input-placeholder { 
+    color: white;
+  }
+  
+  ::-ms-input-placeholder {
+    color: white;
+  }
+
+  .googlefonts{
+    font-family: 'Abel', sans-serif;
+    line-height: 30px;
+    
+  }
+  li,a{
+    font-size: 15px;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  a:hover{
+    color: #F6952C;
+    text-decoration: none;
+  }

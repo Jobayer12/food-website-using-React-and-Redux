@@ -1,0 +1,75 @@
+.terms-image {
+  background-image: url("../../img/ia_3800000002.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 200px;
+  opacity: 0.9;
+}
+
+.terms-image > p {
+  background-color: transparent;
+  color: white;
+}
+.termscondition {
+  text-align: justify;
+}
+
+.termscondition > span {
+  color: #197500;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+.Prohibitions {
+  font-weight: 300;
+  color: #515769;
+  line-height: 1.4;
+  margin: 0 0 15px;
+  font-size: 22px;
+}
+
+.privarypolicy {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  line-height: 1.4;
+  font-size: 15px;
+  font-weight: 400;
+  margin: 0 0 15px;
+}
+
+@import url("../../../node_modules/font-awesome/css/font-awesome.min.css");
+.panel-title > a:before {
+  float: right !important;
+  font-family: FontAwesome;
+  content: "\f068";
+  margin-top: 15px;
+  margin-right: 15px;
+
+  padding-right: 5px;
+}
+.panel-title > a.collapsed:before {
+  float: right !important;
+  content: "\f067";
+}
+.panel-title > a:hover,
+.panel-title > a:active,
+.panel-title > a:focus {
+  text-decoration: none;
+}
+
+.panel-title {
+  height: 50px;
+  background-color: #eee;
+}
+
+.panel-title > a {
+  color: #197500;
+}
+.panel-body,
+.panel-title {
+  padding-left: 15px;
+}
+
+.panel-default {
+  margin-top: 25px;
+}
